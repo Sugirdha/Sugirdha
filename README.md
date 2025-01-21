@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m an **application developer** with a passion 
 ## 🌱 What I’m Working On  
 - Mastering **cloud architecture** through hands-on projects and advanced certifications (GCP Professional Cloud Architect).  
 - Exploring **machine learning** and its applications in everyday tech.
-- Expanding my skillset in **program management** to complement my technical expertise and enhance my ability to lead projects in the future.  
+- Expanding my skillset in **product management** to complement my technical expertise and enhance my ability to lead projects in the future.  
 - Learning **Japanese** 🇯🇵 as a personal challenge.  
 
 ## 🎨 Beyond Tech  
